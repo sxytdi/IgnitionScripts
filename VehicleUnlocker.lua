@@ -1,5 +1,5 @@
 -- LocalScript: Vehicle Finder Pro
--- By: Ignition Scripts
+-- By: Shitty Scripts
 -- Location: StarterPlayer > StarterPlayerScripts
 
 local Players = game:GetService("Players")
@@ -171,7 +171,7 @@ local watermark = Instance.new("TextLabel")
 watermark.Size = UDim2.new(1, -24, 0, 14)
 watermark.Position = UDim2.new(0, 12, 0, 119)
 watermark.BackgroundTransparency = 1
-watermark.Text = "Ignition Scripts"
+watermark.Text = "Shitty Scripts"
 watermark.TextColor3 = Color3.fromRGB(255, 255, 255)
 watermark.TextTransparency = 0.75
 watermark.TextSize = 10
